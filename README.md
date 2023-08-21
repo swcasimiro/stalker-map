@@ -9,7 +9,27 @@
 <br>
 <br>
 <img src="https://www.upload.ee/image/15596759/db.jpg">
+
 <b>Активация проекта :</b>
+<br>
+<br>
+<code>python -m venv venv</code>
+<br>
+<br>
+<code>venv\Scripts\activate.bat</code>
+<br>
+<br>
+<code>pip install -r requirements.txt</code>
+<br>
+<br>
+<code>python manage.py makemigrations</code>
+<br>
+<br>
+<code>python manage.py migrate</code>
+<br>
+<br>
+<code>python manage.py createsuperuser</code>
+
 
 
 
