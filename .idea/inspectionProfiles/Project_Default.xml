@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telegramm_bot.handlers.*" />
+          <option value="conf.telegramm_bot.database.sqlite_admin_db.sql_read_soups_sy2" />
+          <option value="menu.menu.urls.django" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
