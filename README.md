@@ -13,9 +13,6 @@
 <b>Активация проекта :</b>
 <br>
 <br>
-<code>python -m venv venv</code>
-<br>
-<br>
 <code>venv\Scripts\activate.bat</code>
 <br>
 <br>
