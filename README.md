@@ -1,5 +1,5 @@
 <h1>Stalker-map</h1>
-<img src="https://img.shields.io/badge/django 3.2.9-black?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/> 
+<img src="https://img.shields.io/badge/django 3.2-black?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/> 
 
 <b>Немного вводной информации :</b>
 <br>
