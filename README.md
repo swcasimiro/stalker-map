@@ -10,7 +10,32 @@
 <b>З</b>атронем функционал - из себя это самый обычный сайт с маленьким лендингом и основной страницей где находится выборка информации о локациях. Реализована поисковая строка, которая позволяет искать по названию нужную локацию. Так же конструкция сайта представляет из себя две связанные модели. Ниже можно увидеть их. Так же оптимизированы с помощью Django ORM запросы связанных моделей, аналог JOIN в SQL. Информацию о каждой локации можно узнать детальнее с помощью <code>DetailView</code>. Так же реализован Пагинатор, чтобы юзеру было куда легче искать информацию и страница не выглядела слишком нагружена. Админ-панель позволяет использовать CRUD к моделяем.
 <br>
 <br>
+<strong><p>Используемые технологии:</p></strong>
+  <p>Все использованные инструменты, которые были задействованы в реализации данного проекта.</p>
+<div>
+<p><strong>Языки программирования</strong></p>
+  <a>
+    <img src="https://img.shields.io/badge/python-346c99?style=for-the-badge&logo=python&logoColor=fecd3a" alt="Python Badge"/>
+  </a>
+<br>
+<br>  
+<p><strong>Фреймворк</strong></p>
 
+<a>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+</a>
+<br>
+<br>
+<p><strong>База данных</strong></p>
+<a>
+  <img src="https://img.shields.io/badge/postgresql-316093?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+</a>
+<a>
+    <img src="https://img.shields.io/badge/sqlite-3f9cd8?style=for-the-badge&logo=sqlite&logoColor=white" alt="nginx Badge"/>
+</a>
+
+</div>
+<br>
 
 <b>Активация проекта :</b>
 <br>
